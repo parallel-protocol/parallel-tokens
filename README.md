@@ -16,6 +16,8 @@ This repository contains all the contracts of Parallel Tokens with associated co
 
 ### Mainnet
 
+USDp is live on the 24 chains listed below.
+
 #### Ethereum
 
 | Contract           | Explore                                                                                                               |
@@ -103,14 +105,6 @@ This repository contains all the contracts of Parallel Tokens with associated co
 | USDp               | [0x9eE1963f05553eF838604Dd39403be21ceF26AA4](https://scrollscan.com/address/0x9eE1963f05553eF838604Dd39403be21ceF26AA4) |
 | FlashParallelToken | [0x9e0DCF7a33bBde6689560C5c807dd2a3dF991277](https://scrollscan.com/address/0x9e0DCF7a33bBde6689560C5c807dd2a3dF991277) |
 | BridgeableUSDp     | [0x9fFaCB3dB5cB74BdD4C68af3b7CF203130c699ec](https://scrollscan.com/address/0x9fFaCB3dB5cB74BdD4C68af3b7CF203130c699ec) |
-
-#### Mantle
-
-| Contract           | Explore                                                                                                                 |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| USDp               | [0x9eE1963f05553eF838604Dd39403be21ceF26AA4](https://mantlescan.xyz/address/0x9eE1963f05553eF838604Dd39403be21ceF26AA4) |
-| FlashParallelToken | [0x9e0DCF7a33bBde6689560C5c807dd2a3dF991277](https://mantlescan.xyz/address/0x9e0DCF7a33bBde6689560C5c807dd2a3dF991277) |
-| BridgeableUSDp     | [0x0000](https://mantlescan.xyz/address/0x0000)                                                                         |
 
 #### Gnosis
 
